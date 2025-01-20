@@ -53,7 +53,7 @@ export const experiences = [
     skills: ["Wordpress", "Php", "MySql", "HTML5", "CSS", "Bootstrap", "JavaScript","WIX", "Webflow", "React", "Woocommerce", "Shopify-frontend", "SEO", "Framer"],
   },
   {
-    id: 2,
+    id: 3,
     img: sterlingTechnolabs,
     role: "Wordpress Developer Intern",
     company: "Sterling Technolabs Pvt. Ltd",
@@ -62,7 +62,7 @@ export const experiences = [
     skills: ["Wordpress", "Php", "MySql", "HTML5", "CSS", "Woocommerce",  "SEO" ],
   },
   {
-    id: 3,
+    id: 4,
     img: prideDigital,
     role: "Web Developer Intern",
     company: "Pride Digital Consulting",
