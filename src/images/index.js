@@ -2,7 +2,7 @@ import weCareuae from "./wecareuae.png";
 import nectarFusionit from "./nectarfusionit.png";
 import swami1 from "./swami1.png";
 import meetupApp from "./meetupApp.png";
-import sterlingTechnolabs from "./sterlingtechnolabs.jpg";
+import sterlingTechnolabs from "./sterling.jpg";
 import loopdMedia from "./loopdmedia.png";
 import prideDigital from "./pridedigital.jpg";
 import yeshwantCollege from "./yeshwantcollege.png";
