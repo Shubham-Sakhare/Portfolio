@@ -32,6 +32,7 @@ export const Bio = {
   resume: "https://drive.google.com/file/d/1zOZdQairyp2CDrlmh5nPXFWajoDoFblE/view?usp=sharing",
 };
 
+
 export const experiences = [
   {
     id: 1,
@@ -78,7 +79,7 @@ export const education = [
     img: swami1,
     collage: "Swami ramananada teerth marathwada university, Nanded",
     date: "Jul 2018 - Oct 2020",
-    grade: 8.0,
+    grade: "A",
     degree: "Msc, Computer Science",
   },
   {
