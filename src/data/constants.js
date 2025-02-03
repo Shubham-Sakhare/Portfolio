@@ -78,7 +78,7 @@ export const education = [
     img: swami1,
     collage: "Swami ramananada teerth marathwada university, Nanded",
     date: "Jul 2018 - Oct 2020",
-    grade: 8.0,
+    grade: "A",
     degree: "Msc, Computer Science",
   },
   {
@@ -86,7 +86,7 @@ export const education = [
     img: yeshwantCollege,
     collage: "Yeshwant Collage college Nanded",
     date: "Jul 2015 - May 2018",
-    grade: 9.0,
+    grade: "A",
     degree: "Bsc, Computer Science",
   },
 ];
