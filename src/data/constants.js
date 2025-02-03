@@ -79,7 +79,7 @@ export const education = [
     img: swami1,
     collage: "Swami ramananada teerth marathwada university, Nanded",
     date: "Jul 2018 - Oct 2020",
-    grade: "A",
+    grade: "A+",
     degree: "Msc, Computer Science",
   },
   {
